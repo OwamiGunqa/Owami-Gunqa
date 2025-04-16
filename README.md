@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwamiGunqa
 - 👀 I’m interested in : Cybersecurity , Networks and Enterprise Architecture
-- 🌱 School: University of Cape Town, majoring in Information Systems. 
+- 🌱 Work : I am working in Security Architecture 
 - 💞️ I’m looking to collaborate on: Networking and CyberSec projects that can help with building my profile. 
 - 📫 How to reach me: owamigun03@gmail.com
 - 😄 Pronouns: He/Him
